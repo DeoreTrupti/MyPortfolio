@@ -16,4 +16,3 @@
 
 ✔️ Visual Studio Code
 
-**Link:-** file:///Volumes/Time%20machine/Resume/html5up-paradigm-shift/index.html
